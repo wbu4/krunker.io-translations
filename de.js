@@ -472,7 +472,7 @@ windows.host.preset.load Voreinstellung laden...
 windows.host.preset.name Name Voreinstellung
 windows.host.start Spiel starten
 windows.host.rehost Spiel Starten (Spieler mitnehmen)
-windows.spray.header Spay auswählen
+windows.spray.header Spray auswählen
 windows.spray.default Voreingestelltes Spray
 windows.spray.spin Spray
 windows.maps.header Benutzerdefinierte Map
