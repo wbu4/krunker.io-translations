@@ -11,7 +11,7 @@ menu.btn.invite.clicked Copiado
 menu.btn.join Unirse
 menu.btn.host Crear partida
 menu.btn.browser Servidores
-generic.wait Porfavor espere...
+generic.wait Por favor espere...
 generic.loading CARGANDO...
 generic.none Nada
 generic.connecting CONECTANDO...
@@ -24,7 +24,7 @@ generic.leave Salir
 generic.default Por defecto
 generic.submit Subir
 generic.create Crear
-generic.random Aleatorio
+generic.random Random
 generic.failed Error
 generic.success Éxito!
 generic.name Nombre
@@ -47,9 +47,9 @@ generic.games.played Partidas jugadas
 generic.games.won Partidas ganadas
 generic.games.lost Partidas perdidas
 generic.timep Tiempo jugado
-generic.kills Eliminaciones
+generic.kills Kills
 generic.deaths Muertes
-generic.kdr KDR
+generic.kdr KPM
 generic.time Tiempo
 generic.logout Cerrar sesión
 generic.logout.sessions Salirse de todas las sesiones
@@ -745,21 +745,21 @@ windows.playerlist.flag Estás seguro de que quieres Suspender a {0} ?
 windows.playerlist.unflag Estás seguro de que quieres remover la suspención de {0}?
 windows.playerlist.punish Estás seguro de que quieres tomar acciones en {0}?
 item.view.open Open Model Viewer
-item.view.more More Information
-item.sell.cant Item cant be sold.
-item.sell.quick Are you sure you want to Quick Sell {0}?
-social.profile.stats Overall Stats
-social.profile.class Class Stats
-social.profile.sales Sales
-social.profile.sales.market Market Sales
+item.view.more Más información
+item.sell.cant No se puede vender.
+item.sell.quick Estás seguro que quieres venderlo rádpio {0}?
+social.profile.stats Estatísticas generales
+social.profile.class Estatísticas de clases
+social.profile.sales Ventas
+social.profile.sales.market Ventas en el Mercado
 social.profile.skins Skins [{0}]
-social.profile.skins.none No published Skins from this user
-social.profile.games Games [{0}]
-social.profile.games.none No published Games from this user
+social.profile.skins.none No hay skins publicados por ese usuario.
+social.profile.games Juegos [{0}]
+social.profile.games.none No hay juegos publicados por ese usuario.
 social.profile.assets Assets [{0}]
 social.profile.assets.none No published Assets from this user
 social.profile.mods Mods [{0}]
-social.profile.mods.none No published Mods from this user
+social.profile.mods.none No hay Mods publicados por ese usuario.
 social.search Search Results
 social.market.stats.rare Rarest Items
 social.market.stats.circulation In Circulation
